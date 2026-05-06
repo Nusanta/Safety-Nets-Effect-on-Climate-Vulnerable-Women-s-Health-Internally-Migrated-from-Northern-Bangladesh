@@ -1,0 +1,13 @@
+## Selected Outputs
+
+### Adjusted odds ratios for good self-reported health
+![Adjusted odds ratios](outputs/figures/adjusted_odds_ratios_good_health.png)
+
+### Employment improvement by safety-net receipt
+![Employment improvement by safety-net receipt](outputs/figures/employment_improvement_by_safety_net.png)
+
+### Self-reported health by safety-net receipt
+![Self-reported health by safety-net receipt](outputs/figures/health_by_safety_net_receipt.png)
+
+### Kitchen cleanliness by education group
+![Kitchen cleanliness by education group](outputs/figures/kitchen_cleanliness_by_education.png)
