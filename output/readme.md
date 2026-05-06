@@ -44,11 +44,6 @@ This gallery presents selected visual outputs from the R analysis workflow. The 
       <img src="figures/Hypo 3(b): Income After Migration.jpeg" width="100%">
       <p><em>Post-migration income distribution across duration groups.</em></p>
     </td>
-    <td width="50%" align="center">
-      <h3>Years Since Migration vs Income</h3>
-      <img src="figures/Hypo 3: Migration vs Income.jpeg" width="100%">
-      <p><em>Relationship between years in Dhaka and income after migration.</em></p>
-    </td>
   </tr>
   <tr>
     <td width="50%" align="center">
