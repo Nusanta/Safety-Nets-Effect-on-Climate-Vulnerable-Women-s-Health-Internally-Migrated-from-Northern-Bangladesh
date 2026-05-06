@@ -57,6 +57,12 @@ Health vulnerability varies by type of displacement, with higher disease burden 
 
 Documentation barriers, local gatekeeping, informal fees, and limited service access prevent many women from converting formal entitlements into usable health protection.
 
+scripts/README.md
+outputs/README.md
+outputs/figures/README.md
+outputs/tables/README.md
+data/README.md
+
 ## Repository Structure
 
 ```text
