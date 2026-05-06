@@ -10,7 +10,7 @@ This gallery presents selected visual outputs from the R analysis workflow. The 
   <tr>
     <td width="50%" align="center">
       <h3>Adjusted Odds Ratios for Good Self-Reported Health</h3>
-      <img src="figure/HYpo%201%3A%20ODDS%20ratio.jpeg" width="100%">
+      <img src="figure/HYpo 1: ODDS ratio.jpeg" width="100%">
       <p><em>Adjusted logistic regression results for good self-reported health.</em></p>
     </td>
     <td width="50%" align="center">
