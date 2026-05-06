@@ -1,24 +1,26 @@
 # Figure Gallery
 
-This gallery presents selected visual outputs from the R analysis workflow. The figures summarize descriptive, bivariate, and regression-based findings from the study.
+This gallery presents selected visual outputs from the R analysis workflow. The figures summarize regression-based, descriptive, and bivariate findings from the study.
 
 ---
 
-## Main Regression and Safety-Net Findings
+## Regression Finding
 
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>Adjusted Odds Ratios for Good Self-Reported Health</h3>
-      <img src="figures/HYpo1ODDSratio.jpeg" width="100%">
+      <img src="figures/HYpo1ODDSratio.jpeg" width="80%">
       <p><em>Adjusted logistic regression results for good self-reported health.</em></p>
     </td>
-    <td width="50%" align="center">
-      <h3>Employment Improvement by Safety-Net Receipt</h3>
-      <img src="figures/Hypo 2: Employment graph.jpeg" width="100%">
-      <p><em>Comparison of employment improvement by safety-net status.</em></p>
-    </td>
   </tr>
+</table>
+
+---
+
+## Safety-Net, Health, and Employment Outcomes
+
+<table>
   <tr>
     <td width="50%" align="center">
       <h3>Self-Reported Health by Safety-Net Receipt</h3>
@@ -26,35 +28,35 @@ This gallery presents selected visual outputs from the R analysis workflow. The 
       <p><em>Descriptive comparison of health status by safety-net receipt.</em></p>
     </td>
     <td width="50%" align="center">
-      <h3>Self-Reported Health by Displacement Group</h3>
-      <img src="figures/Hypo 5: Health vs displacement.jpeg" width="100%">
-      <p><em>Health status distribution across displacement pathways.</em></p>
+      <h3>Employment Improvement by Safety-Net Receipt</h3>
+      <img src="figures/Hypo 2: Employment graph.jpeg" width="100%">
+      <p><em>Comparison of employment improvement by safety-net status.</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Migration Duration and Income Patterns
+## Displacement, Health, and Income Patterns
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>Income After Migration by Duration Group</h3>
-      <img src="figures/Hypo 3(b): Income After Migration.jpeg" width="100%">
-      <p><em>Post-migration income distribution across duration groups.</em></p>
+      <h3>Self-Reported Health by Displacement Group</h3>
+      <img src="figures/Hypo 5: Health vs displacement.jpeg" width="100%">
+      <p><em>Health status distribution across displacement pathways.</em></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <h3>Income Distribution by Displacement Group</h3>
       <img src="figures/Hypo5(b): Income Distribution vs displacement.jpeg" width="100%">
       <p><em>Post-migration income variation across displacement pathways.</em></p>
     </td>
-    <td width="50%" align="center">
-      <h3>Health vs Displacement, Alternative Version</h3>
-      <img src="figures/Hypo5: Health vs Displacement.jpeg" width="100%">
-      <p><em>Additional displacement-health figure included for comparison.</em></p>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" align="center">
+      <h3>Income After Migration by Duration Group</h3>
+      <img src="figures/Hypo 3(b): Income After Migration.jpeg" width="80%">
+      <p><em>Post-migration income distribution across duration groups.</em></p>
     </td>
   </tr>
 </table>
