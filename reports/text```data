@@ -1,0 +1,10 @@
+# Data Folder
+
+The raw household survey data are not publicly shared because they contain sensitive respondent-level information.
+
+This folder is reserved for local data files used to run the R analysis script.
+
+Expected local file:
+
+```text
+Findings_Research.xlsx
