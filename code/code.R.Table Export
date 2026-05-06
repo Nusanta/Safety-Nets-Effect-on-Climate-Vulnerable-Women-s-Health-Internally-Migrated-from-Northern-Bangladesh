@@ -1,0 +1,15 @@
+# ---------------------------
+# 10. Export selected result tables
+# ---------------------------
+
+dir.create("outputs", showWarnings = FALSE)
+dir.create("outputs/tables", recursive = TRUE, showWarnings = FALSE)
+dir.create("outputs/figures", recursive = TRUE, showWarnings = FALSE)
+
+write_csv(h2_summary, "outputs/tables/h2_employment_by_safety_net.csv")
+write_csv(h3_summary, "outputs/tables/h3_income_by_duration_group.csv")
+write_csv(h4_kitchen_summary, "outputs/tables/h4_kitchen_cleanliness_by_education.csv")
+write_csv(h4_wash_summary, "outputs/tables/h4_handwashing_by_education.csv")
+write_csv(h5_income_summary, "outputs/tables/h5_income_by_displacement_group.csv")
+write_csv(h6_income_summary, "outputs/tables/h6_income_by_safety_net.csv")
+write_csv(or_table, "outputs/tables/logistic_regression_odds_ratios.csv")
