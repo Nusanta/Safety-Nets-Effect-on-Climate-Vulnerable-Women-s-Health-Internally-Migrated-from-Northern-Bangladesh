@@ -68,4 +68,12 @@ This figure compares health status between respondents who did and did not recei
 
 This boxplot compares post-migration income across displacement pathways.
 
-![Income after migration by displacement group](outputs/figures/Hypo5(b)%3A%20Income%20Distribution%20by%20Displacement.jpeg)
+![Income after migration by displacement group](outputs/figures/Hypo5(b)%3A%20Income%20Distribution%20vs%20displacement.jpeg)
+
+---
+
+### Self-reported health by displacement group, alternative version
+
+This is an additional version of the displacement-health figure. Keep only one displacement-health figure in the final README if both show the same result.
+
+![Alternative health by displacement group](outputs/figures/Hypo5%3A%20Health%20vs%20Displacement.jpeg)
