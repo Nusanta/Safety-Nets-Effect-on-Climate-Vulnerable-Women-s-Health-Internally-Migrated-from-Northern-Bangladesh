@@ -15,7 +15,7 @@ This gallery presents selected visual outputs from the R analysis workflow. The 
     </td>
     <td width="50%" align="center">
       <h3>Employment Improvement by Safety-Net Receipt</h3>
-      <img src="figure/Hypo%202%3A%20Employment%20graph.jpeg" width="100%">
+      <img src="figure/Hypo-1: self reported health.jpeg" width="100%">
       <p><em>Comparison of employment improvement by safety-net status.</em></p>
     </td>
   </tr>
